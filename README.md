@@ -1,6 +1,4 @@
----
-license: mit
----
+
 ## wiki-burmese-sentences
 
 Simbolo wiki data is derived from the extensive collection of Wikipedia articles and serves diverse purposes, with a primary focus on text generation. The main contributor to this dataset is Sa Phyo Thu Htet, with valuable contributions also made by other dedicated individuals, including Kaung Khant Ko Ko and Phuu Pwint Thinzar Kyaing. This collaborative effort has resulted in a rich and comprehensive dataset that can be utilized across various applications in the realm of natural language processing and text-based tasks.
